@@ -11,3 +11,10 @@ python main.py
 Oldukça basit. Görüntü seç düğmesine tıklayın, dosya gezgininde qr kod görüntü dosyasını seçin ve ardından qr koduna atanan metin, butonların altında görünecektir. Bu metni temizlemek için yaziyi temizle düğmesini tıklayın. Bitti.
 
 python main.py
+
+![tanıtım4](https://user-images.githubusercontent.com/80632086/129278599-d28961b1-3489-4fd4-bcbc-7039e3cbd0b1.png)
+
+
+
+
+
