@@ -12,7 +12,8 @@ Oldukça basit. Görüntü seç düğmesine tıklayın, dosya gezgininde qr kod 
 
 python main.py
 
-![tanıtım4](https://user-images.githubusercontent.com/80632086/129278599-d28961b1-3489-4fd4-bcbc-7039e3cbd0b1.png)
+![tanıtım4v22](https://user-images.githubusercontent.com/80632086/129346573-3162b0c9-a22e-4b15-996c-5272dba4d349.png)
+
 
 
 
