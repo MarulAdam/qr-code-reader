@@ -1,4 +1,4 @@
-# QR-Code-Scanner
+# QR Code Scanner
 
 [1]HOW CAM I USE THIS ?
 
